@@ -1,7 +1,11 @@
 <?php 
 /*
-Plugin Name: SM Post View Count
-Author: Mahabubur Rahman
+ Plugin Name: SM Post View Count
+ Plugin URI: https://github.com/engrmahabub/Post-View-Count
+ Author: Mahabubur Rahman
+ Author URI: http://mahabub.me
+ Description: Post view counter plugin for wordpress
+ Version: 1.0.0
 */
 
 /**
