@@ -55,7 +55,6 @@ class SMPostViewCount
 		// dbDelta( $sql );
 	}
 	public function sm_post_view_count(){
-		print get_the_content();
 		if(!is_page() && is_single()):
 		global $wp;
 		$current_url = home_url(add_query_arg(array(),$wp->request));
